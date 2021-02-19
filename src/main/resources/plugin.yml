@@ -1,0 +1,7 @@
+name: PolarAPI
+main: com.swert.api.APIPlugin
+version: 1.0-ALPHA
+authors: [zSwert_]
+commands:
+  off:
+  on:
